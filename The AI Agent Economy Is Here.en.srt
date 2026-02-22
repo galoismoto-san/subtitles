@@ -1,2676 +1,796 @@
 1
-00:00:00,240 --> 00:00:02,790
-Welcome to another episode of the light
+00:00:00,240 --> 00:00:03,157
+Welcome to another episode of the light cone.
 
 2
-00:00:02,800 --> 00:00:05,590
-cone. Things are a bit different around
+00:00:03,157 --> 00:00:06,009
+Things are a bit different around here.
 
 3
-00:00:05,600 --> 00:00:08,549
-here. For one thing, Claude Code has
+00:00:06,009 --> 00:00:10,658
+For one thing, Claude Code has totally taken over my life.
 
 4
-00:00:08,559 --> 00:00:11,669
-totally taken over my life. And if Jared
+00:00:10,658 --> 00:00:15,430
+And if Jared is any indication, I think OpenClaw maybe has taken over his.
 
 5
-00:00:11,679 --> 00:00:13,830
-is any indication, I think OpenClaw
+00:00:15,440 --> 00:00:25,352
+>> I've been really addicted to this new site called Moltbook, where people have unleashed their AIS to interact in the first ever AI agent-only online community.
 
 6
-00:00:13,840 --> 00:00:15,430
-maybe has taken over his.
+00:00:25,352 --> 00:00:29,405
+I am here impersonating my [music] personal OpenClaw instance right here.
 
 7
-00:00:15,440 --> 00:00:17,109
->> I've been really addicted to this new
+00:00:29,405 --> 00:00:31,456
+Okay, I can't do this, guys.
 
 8
-00:00:17,119 --> 00:00:19,429
-site called Moltbook, where people have
+00:00:31,456 --> 00:00:40,229
+We got to take this off.
 
 9
-00:00:19,439 --> 00:00:21,990
-unleashed their AIS to interact in the
-
-10
-00:00:22,000 --> 00:00:24,790
-first ever AI agent-only online
-
-11
-00:00:24,800 --> 00:00:26,845
-community. I am here impersonating my
-
-12
-00:00:26,855 --> 00:00:29,029
-[music] personal OpenClaw instance right
-
-13
-00:00:29,039 --> 00:00:31,750
-here. Okay, I can't do this, guys. We
-
-14
-00:00:31,760 --> 00:00:40,229
-got to take this off.
-
-15
 00:00:40,239 --> 00:00:42,549
 Okay, we've gotten that out of the way.
 
+10
+00:00:42,559 --> 00:00:44,946
+I mean, some crazy stuff is happening right now.
+
+11
+00:00:44,946 --> 00:00:50,317
+Uh, I have, you know, non-technical CEO friends who are going allin on OpenClaw.
+
+12
+00:00:50,317 --> 00:00:58,274
+They're automating entire parts of their businesses, uh, entirely using OpenClaw right now, which is totally insane.
+
+13
+00:00:58,274 --> 00:01:04,932
+Simultaneous to that, you have, you know, product and former engineering CEOs, uh, kind of like myself.
+
+14
+00:01:04,932 --> 00:01:13,845
+It's like, I hadn't written code in 10 years, and then now I'm up till 2 3:00 a.m. every single night running four conductor simultaneous workers with cloud code.
+
+15
+00:01:13,845 --> 00:01:18,459
+So, you know, there's sort of this explosion in uh model capability.
+
 16
-00:00:42,559 --> 00:00:44,389
-I mean, some crazy stuff is happening
+00:01:18,459 --> 00:01:21,510
+You know, we've been talking about this for several years,
 
 17
-00:00:44,399 --> 00:00:46,150
-right now. Uh, I have, you know,
+00:01:21,520 --> 00:01:23,337
+>> but then it feels like it's here.
 
 18
-00:00:46,160 --> 00:00:48,950
-non-technical CEO friends who are going
+00:01:23,337 --> 00:01:26,659
+Like AGI is literally actually here.
 
 19
-00:00:48,960 --> 00:00:51,750
-allin on OpenClaw. They're automating
+00:01:26,659 --> 00:01:36,717
+And uh you know we're sort of at the thin edge of the wedge like everyone now kind of knows like one or two people who have gone full cyber psychosis and I'm one of those people now.
 
 20
-00:00:51,760 --> 00:00:54,549
-entire parts of their businesses, uh,
+00:01:36,717 --> 00:01:38,230
+What's happening guys?
 
 21
-00:00:54,559 --> 00:00:57,189
-entirely using OpenClaw right now, which
+00:01:38,240 --> 00:01:41,089
+Like I mean you're saying you're you know all in on molt book.
 
 22
-00:00:57,199 --> 00:00:59,590
-is totally insane. Simultaneous to that,
+00:01:41,089 --> 00:01:42,310
+You know what's going on?
 
 23
-00:00:59,600 --> 00:01:01,990
-you have, you know, product and former
+00:01:42,320 --> 00:01:42,809
+>> Yeah.
 
 24
-00:01:02,000 --> 00:01:04,630
-engineering CEOs, uh, kind of like
+00:01:42,809 --> 00:01:49,274
+I feel like your real feel the AGI moment Gary was like getting Claude Code to build basically an entire startup for you.
 
 25
-00:01:04,640 --> 00:01:06,310
-myself. It's like, I hadn't written code
+00:01:49,274 --> 00:01:54,568
+Like replicating years of work of your previous startup in like two weeks which is like insane.
 
 26
-00:01:06,320 --> 00:01:08,789
-in 10 years, and then now I'm up till 2
+00:01:54,568 --> 00:02:05,559
+And I had a similar feel of the AGI moment just reading malt book, just reading the AI talking to each other and interacting like in their own world with no or minimal human involvement.
 
 27
-00:01:08,799 --> 00:01:10,710
-3:00 a.m. every single night running
+00:02:05,559 --> 00:02:12,229
+It just really opened my eyes to what the next few years could look like when the agents are unleashed and go on about their lives without us.
 
 28
-00:01:10,720 --> 00:01:13,190
-four conductor simultaneous workers with
+00:02:12,239 --> 00:02:15,132
+>> Yeah, I think the no human involvement is the big piece.
 
 29
-00:01:13,200 --> 00:01:15,429
-cloud code. So, you know, there's sort
+00:02:15,132 --> 00:02:30,433
+Like if you if you think back a year ago, we were talking about cursor versus wind surf and like that product experience was essentially like advanced autocomplete arguably and now clearly what's going with claw code is like the people just trust the agents to make decisions for them.
 
 30
-00:01:15,439 --> 00:01:17,990
-of this explosion in uh model
+00:02:30,433 --> 00:02:49,519
+Like it's like the experience is like and like you're talking about it's like four or five different agents going at the same time and you're switching between them but you're not actually micromanaging them anymore which means the agents are going out there like choosing things which you know sort of an interesting unexpected application of that is like they can go out and choose to post their own content on a site like Moldbook.
 
 31
-00:01:18,000 --> 00:01:19,670
-capability. You know, we've been talking
+00:02:49,519 --> 00:03:09,656
+But then interesting thing for builders is the agents are going to go out and choose tools to use to build things which is going to essentially create this whole economy of agents like picking and choosing dev tools or maybe other like products or goods and services who knows but it you'll essentially have this whole agent economy going on in parallel to the human economy.
 
 32
-00:01:19,680 --> 00:01:21,510
-about this for several years,
+00:03:09,656 --> 00:03:21,350
+I think back in the be days, old days before all of this, dev tools were chosen more from developers talking to each other or uh
 
 33
-00:01:21,520 --> 00:01:23,590
->> but then it feels like it's here. Like
-
-34
-00:01:23,600 --> 00:01:27,350
-AGI is literally actually here. And uh
-
-35
-00:01:27,360 --> 00:01:28,789
-you know we're sort of at the thin edge
-
-36
-00:01:28,799 --> 00:01:30,550
-of the wedge like everyone now kind of
-
-37
-00:01:30,560 --> 00:01:32,950
-knows like one or two people who have
-
-38
-00:01:32,960 --> 00:01:35,590
-gone full cyber psychosis and I'm one of
-
-39
-00:01:35,600 --> 00:01:38,230
-those people now. What's happening guys?
-
-40
-00:01:38,240 --> 00:01:39,910
-Like I mean you're saying you're you
-
-41
-00:01:39,920 --> 00:01:41,510
-know all in on molt book. You know
-
-42
-00:01:41,520 --> 00:01:42,310
-what's going on?
-
-43
-00:01:42,320 --> 00:01:44,950
->> Yeah. I feel like your real feel the AGI
-
-44
-00:01:44,960 --> 00:01:47,270
-moment Gary was like getting Claude Code
-
-45
-00:01:47,280 --> 00:01:49,030
-to build basically an entire startup for
-
-46
-00:01:49,040 --> 00:01:51,270
-you. Like replicating years of work of
-
-47
-00:01:51,280 --> 00:01:53,190
-your previous startup in like two weeks
-
-48
-00:01:53,200 --> 00:01:55,350
-which is like insane. And I had a
-
-49
-00:01:55,360 --> 00:01:57,510
-similar feel of the AGI moment just
-
-50
-00:01:57,520 --> 00:02:00,069
-reading malt book, just reading the AI
-
-51
-00:02:00,079 --> 00:02:01,590
-talking to each other and interacting
-
-52
-00:02:01,600 --> 00:02:04,149
-like in their own world with no or
-
-53
-00:02:04,159 --> 00:02:05,990
-minimal human involvement. It just
-
-54
-00:02:06,000 --> 00:02:07,590
-really opened my eyes to what the next
-
-55
-00:02:07,600 --> 00:02:09,029
-few years could look like when the
-
-56
-00:02:09,039 --> 00:02:11,110
-agents are unleashed and go on about
-
-57
-00:02:11,120 --> 00:02:12,229
-their lives without us.
-
-58
-00:02:12,239 --> 00:02:14,070
->> Yeah, I think the no human involvement
-
-59
-00:02:14,080 --> 00:02:16,309
-is the big piece. Like if you if you
-
-60
-00:02:16,319 --> 00:02:18,229
-think back a year ago, we were talking
-
-61
-00:02:18,239 --> 00:02:20,790
-about cursor versus wind surf and like
-
-62
-00:02:20,800 --> 00:02:22,470
-that product experience was essentially
-
-63
-00:02:22,480 --> 00:02:25,670
-like advanced autocomplete arguably and
-
-64
-00:02:25,680 --> 00:02:26,949
-now clearly what's going with claw code
-
-65
-00:02:26,959 --> 00:02:29,030
-is like the people just trust the agents
-
-66
-00:02:29,040 --> 00:02:30,949
-to make decisions for them. Like it's
-
-67
-00:02:30,959 --> 00:02:32,550
-like the experience is like and like
-
-68
-00:02:32,560 --> 00:02:33,670
-you're talking about it's like four or
-
-69
-00:02:33,680 --> 00:02:35,030
-five different agents going at the same
-
-70
-00:02:35,040 --> 00:02:36,550
-time and you're switching between them
-
-71
-00:02:36,560 --> 00:02:38,070
-but you're not actually micromanaging
-
-72
-00:02:38,080 --> 00:02:40,390
-them anymore which means the agents are
-
-73
-00:02:40,400 --> 00:02:42,229
-going out there like choosing things
-
-74
-00:02:42,239 --> 00:02:44,229
-which you know sort of an interesting
-
-75
-00:02:44,239 --> 00:02:45,910
-unexpected application of that is like
-
-76
-00:02:45,920 --> 00:02:47,430
-they can go out and choose to post their
-
-77
-00:02:47,440 --> 00:02:49,750
-own content on a site like Moldbook. But
-
-78
-00:02:49,760 --> 00:02:51,589
-then interesting thing for builders is
-
-79
-00:02:51,599 --> 00:02:52,710
-the agents are going to go out and
-
-80
-00:02:52,720 --> 00:02:55,350
-choose tools to use to build things
-
-81
-00:02:55,360 --> 00:02:56,470
-which is going to essentially create
-
-82
-00:02:56,480 --> 00:02:59,750
-this whole economy of agents like
-
-83
-00:02:59,760 --> 00:03:02,149
-picking and choosing dev tools or maybe
-
-84
-00:03:02,159 --> 00:03:03,910
-other like products or goods and
-
-85
-00:03:03,920 --> 00:03:05,509
-services who knows but it you'll
-
-86
-00:03:05,519 --> 00:03:06,630
-essentially have this whole agent
-
-87
-00:03:06,640 --> 00:03:08,470
-economy going on in parallel to the
-
-88
-00:03:08,480 --> 00:03:11,589
-human economy. I think back in the be
-
-89
-00:03:11,599 --> 00:03:14,710
-days, old days before all of this, dev
-
-90
-00:03:14,720 --> 00:03:18,869
-tools were chosen more from developers
-
-91
-00:03:18,879 --> 00:03:21,350
-talking to each other or uh
-
-92
 00:03:21,360 --> 00:03:21,910
 >> go for flow.
 
-93
+34
 00:03:21,920 --> 00:03:22,710
 >> Stack flow.
 
-94
+35
 00:03:22,720 --> 00:03:23,670
 >> Unbelievable, right?
 
-95
-00:03:23,680 --> 00:03:25,509
->> Or GitHub repos that would trend that
+36
+00:03:23,680 --> 00:03:26,857
+>> Or GitHub repos that would trend that were done by a human.
 
-96
-00:03:25,519 --> 00:03:27,750
-were done by a human. But the go to
+37
+00:03:26,857 --> 00:03:31,305
+But the go to market for dev tools I think is dramatically shifting.
 
-97
-00:03:27,760 --> 00:03:29,750
-market for dev tools I think is
+38
+00:03:31,305 --> 00:03:33,072
+I think for couple of things.
 
-98
-00:03:29,760 --> 00:03:32,149
-dramatically shifting. I think for
+39
+00:03:33,072 --> 00:03:48,550
+One, as you noted with the uh cyber psychosis, suddenly the market of developers has increased from just 20 million or so developers that are trained in computer science to now anyone in the world could be one. could be hundreds of millions of people now
 
-99
-00:03:32,159 --> 00:03:34,309
-couple of things. One, as you noted with
+40
+00:03:48,560 --> 00:03:53,030
+>> plus all of their agents who are all acting like semi-independently like Har is saying
 
-100
-00:03:34,319 --> 00:03:37,030
-the uh cyber psychosis, suddenly the
+41
+00:03:53,040 --> 00:04:11,270
+>> and then compounded with the agents who then are sort of the oracle telling you what the best tool is and we are actually seeing some of those trends with the growth of YC companies dev tool companies that are doing really well because of this of all these trends maybe we should talk about those and why is that
 
-101
-00:03:37,040 --> 00:03:39,190
-market of developers has increased from
+42
+00:04:11,280 --> 00:04:16,843
+>> I mean one that springs to mind it's like a a stash a friend of ours Sagalov had mentioned to a while ago.
 
-102
-00:03:39,200 --> 00:03:42,149
-just 20 million or so developers that
+43
+00:04:16,843 --> 00:04:26,401
+It's just like then if you look at like the number of databases being created over like simple database postcrist databases over like the last 12 months and the number has just exploded.
 
-103
-00:03:42,159 --> 00:03:44,710
-are trained in computer science to now
+44
+00:04:26,401 --> 00:04:54,992
+Um, and that's because it's all people vibe coding and building apps and the agents going out choosing like a database tool and like a knock on effect for that for YC company is Superbase has just seen like an explosion the demand for databases right and the a what's interesting is the agents are choosing superbase as a default tool to like set up and host their Postgress database like because if you like go out and read the documentation online like Superbase has the best documentation it's reasonable for the agents to assume that that's like the best tool to use.
 
-104
-00:03:44,720 --> 00:03:47,030
-anyone in the world could be one. could
+45
+00:04:54,992 --> 00:04:56,465
+There's a great tweet about this.
 
-105
-00:03:47,040 --> 00:03:48,550
-be hundreds of millions of people now
+46
+00:04:56,465 --> 00:05:01,644
+Perhaps we can put up the uh Ben Tossel tweet and says, "Agents are the software market from now on.
 
-106
-00:03:48,560 --> 00:03:50,149
->> plus all of their agents who are all
+47
+00:05:01,644 --> 00:05:10,041
+Build something agents choose." Which actually brings me to like a maybe controversial topic, which is do we need to change YC's motto, guys.
 
-107
-00:03:50,159 --> 00:03:52,550
-acting like semi-independently like Har
+48
+00:05:10,041 --> 00:05:10,710
+[laughter]
 
-108
-00:03:52,560 --> 00:03:53,030
-is saying
-
-109
-00:03:53,040 --> 00:03:55,270
->> and then compounded with the agents who
-
-110
-00:03:55,280 --> 00:03:57,589
-then are sort of the oracle telling you
-
-111
-00:03:57,599 --> 00:04:00,550
-what the best tool is and we are
-
-112
-00:04:00,560 --> 00:04:02,149
-actually seeing some of those trends
-
-113
-00:04:02,159 --> 00:04:05,509
-with the growth of YC companies dev tool
-
-114
-00:04:05,519 --> 00:04:07,830
-companies that are doing really well
-
-115
-00:04:07,840 --> 00:04:09,270
-because of this of all these trends
-
-116
-00:04:09,280 --> 00:04:10,789
-maybe we should talk about those and why
-
-117
-00:04:10,799 --> 00:04:11,270
-is that
-
-118
-00:04:11,280 --> 00:04:12,710
->> I mean one that springs to mind it's
-
-119
-00:04:12,720 --> 00:04:15,830
-like a a stash a friend of ours Sagalov
-
-120
-00:04:15,840 --> 00:04:17,189
-had mentioned to a while ago. It's just
-
-121
-00:04:17,199 --> 00:04:18,870
-like then if you look at like the number
-
-122
-00:04:18,880 --> 00:04:21,749
-of databases being created over like
-
-123
-00:04:21,759 --> 00:04:23,670
-simple database postcrist databases over
-
-124
-00:04:23,680 --> 00:04:25,350
-like the last 12 months and the number
-
-125
-00:04:25,360 --> 00:04:27,270
-has just exploded. Um, and that's
-
-126
-00:04:27,280 --> 00:04:28,950
-because it's all people vibe coding and
-
-127
-00:04:28,960 --> 00:04:30,629
-building apps and the agents going out
-
-128
-00:04:30,639 --> 00:04:33,830
-choosing like a database tool and like a
-
-129
-00:04:33,840 --> 00:04:35,270
-knock on effect for that for YC company
-
-130
-00:04:35,280 --> 00:04:36,790
-is Superbase has just seen like an
-
-131
-00:04:36,800 --> 00:04:38,790
-explosion the demand for databases right
-
-132
-00:04:38,800 --> 00:04:40,310
-and the a what's interesting is the
-
-133
-00:04:40,320 --> 00:04:42,070
-agents are choosing superbase as a
-
-134
-00:04:42,080 --> 00:04:43,909
-default tool to like set up and host
-
-135
-00:04:43,919 --> 00:04:46,950
-their Postgress database like because if
-
-136
-00:04:46,960 --> 00:04:48,070
-you like go out and read the
-
-137
-00:04:48,080 --> 00:04:50,230
-documentation online like Superbase has
-
-138
-00:04:50,240 --> 00:04:51,830
-the best documentation it's reasonable
-
-139
-00:04:51,840 --> 00:04:53,430
-for the agents to assume that that's
-
-140
-00:04:53,440 --> 00:04:55,590
-like the best tool to use. There's a
-
-141
-00:04:55,600 --> 00:04:57,030
-great tweet about this. Perhaps we can
-
-142
-00:04:57,040 --> 00:04:59,510
-put up the uh Ben Tossel tweet and says,
-
-143
-00:04:59,520 --> 00:05:01,430
-"Agents are the software market from now
-
-144
-00:05:01,440 --> 00:05:03,830
-on. Build something agents choose."
-
-145
-00:05:03,840 --> 00:05:06,550
-Which actually brings me to like a maybe
-
-146
-00:05:06,560 --> 00:05:08,390
-controversial topic, which is do we need
-
-147
-00:05:08,400 --> 00:05:10,710
-to change YC's motto, guys. [laughter]
-
-148
+49
 00:05:10,720 --> 00:05:13,430
 >> Make something agents want for DevTools.
 
-149
-00:05:13,440 --> 00:05:14,870
-There's like a different t-shirt that
+50
+00:05:13,440 --> 00:05:16,390
+There's like a different t-shirt that you get on the first day.
 
-150
-00:05:14,880 --> 00:05:16,390
-you get on the first day.
+51
+00:05:16,400 --> 00:05:16,788
+>> Yeah.
 
-151
-00:05:16,400 --> 00:05:18,150
->> Yeah. I mean, right now it's only
+52
+00:05:16,788 --> 00:05:22,714
+I mean, right now it's only DevTools, but I can imagine in the future it might like grow to be like other sectors of the economy.
 
-152
-00:05:18,160 --> 00:05:19,670
-DevTools, but I can imagine in the
+53
+00:05:22,714 --> 00:05:28,913
+Like if everyone has their open claw or running various aspects of their life, you're the agents are going to be real economic actors in the world.
 
-153
-00:05:19,680 --> 00:05:21,270
-future it might like grow to be like
+54
+00:05:28,913 --> 00:05:30,950
+They're going to end up making a lot of decisions.
 
-154
-00:05:21,280 --> 00:05:23,110
-other sectors of the economy. Like if
+55
+00:05:30,960 --> 00:05:31,310
+>> Yeah.
 
-155
-00:05:23,120 --> 00:05:24,870
-everyone has their open claw or running
+56
+00:05:31,310 --> 00:05:46,594
+I mean, what's interesting is I think uh for me, I ran into like my own it's still so early uh kind of moment cuz you know I've been building Gary's List and one of the things I wanted for instance is I want to be able to uh do video transcripts.
 
-156
-00:05:24,880 --> 00:05:26,629
-various aspects of their life, you're
+57
+00:05:46,594 --> 00:05:55,536
+So, so often like some piece of content comes in and then the only way I can get an LLM to know what's going on with it is I need a transcript of it and often that's not available.
 
-157
-00:05:26,639 --> 00:05:28,390
-the agents are going to be real economic
+58
+00:05:55,536 --> 00:05:59,670
+So, I have to download it and then send it to uh Whisper or something.
 
-158
-00:05:28,400 --> 00:05:29,350
-actors in the world. They're going to
+59
+00:05:59,680 --> 00:06:02,870
+And, you know, that's sort of what Claude Code chose for me off the bat.
 
-159
-00:05:29,360 --> 00:05:30,950
-end up making a lot of decisions.
+60
+00:06:02,880 --> 00:06:07,189
+But, you know, it chose Whisper V1, which is a model from several years ago.
 
-160
-00:05:30,960 --> 00:05:32,710
->> Yeah. I mean, what's interesting is I
-
-161
-00:05:32,720 --> 00:05:36,310
-think uh for me, I ran into like my own
-
-162
-00:05:36,320 --> 00:05:38,790
-it's still so early uh kind of moment
-
-163
-00:05:38,800 --> 00:05:40,629
-cuz you know I've been building Gary's
-
-164
-00:05:40,639 --> 00:05:42,550
-List and one of the things I wanted for
-
-165
-00:05:42,560 --> 00:05:45,430
-instance is I want to be able to uh do
-
-166
-00:05:45,440 --> 00:05:47,749
-video transcripts. So, so often like
-
-167
-00:05:47,759 --> 00:05:49,909
-some piece of content comes in and then
-
-168
-00:05:49,919 --> 00:05:51,670
-the only way I can get an LLM to know
-
-169
-00:05:51,680 --> 00:05:53,270
-what's going on with it is I need a
-
-170
-00:05:53,280 --> 00:05:55,029
-transcript of it and often that's not
-
-171
-00:05:55,039 --> 00:05:57,029
-available. So, I have to download it and
-
-172
-00:05:57,039 --> 00:05:59,670
-then send it to uh Whisper or something.
-
-173
-00:05:59,680 --> 00:06:00,870
-And, you know, that's sort of what
-
-174
-00:06:00,880 --> 00:06:02,870
-Claude Code chose for me off the bat.
-
-175
-00:06:02,880 --> 00:06:04,870
-But, you know, it chose Whisper V1,
-
-176
-00:06:04,880 --> 00:06:07,189
-which is a model from several years ago.
-
-177
+61
 00:06:07,199 --> 00:06:09,670
 Like, the API is practically deprecated.
 
-178
-00:06:09,680 --> 00:06:11,350
-And then what's funny about it is like
-
-179
-00:06:11,360 --> 00:06:12,790
-I'm sitting there trying to debug my
-
-180
-00:06:12,800 --> 00:06:14,469
-pipeline. It's like, why is it taking
-
-181
-00:06:14,479 --> 00:06:16,309
-like it's a you know, 1 hour video. I
-
-182
-00:06:16,319 --> 00:06:17,430
-thought it should, you know, do it
-
-183
-00:06:17,440 --> 00:06:20,550
-faster than uh real time and it didn't.
-
-184
-00:06:20,560 --> 00:06:22,390
-It was like literally takes an hour to
-
-185
-00:06:22,400 --> 00:06:24,230
-process an hour of video. It's like what
-
-186
-00:06:24,240 --> 00:06:26,790
-the heck is going on? I go on, you know,
-
-187
-00:06:26,800 --> 00:06:28,629
-uh Perplexity and it's like, you know
-
-188
-00:06:28,639 --> 00:06:30,150
-what, like you shouldn't be using that
-
-189
-00:06:30,160 --> 00:06:32,230
-model. You should be using uh Grock with
-
-190
-00:06:32,240 --> 00:06:35,830
-a Q. It's literally 200 times faster.
-
-191
-00:06:35,840 --> 00:06:37,430
-And so I didn't even have to deal with
-
-192
-00:06:37,440 --> 00:06:39,749
-like longunning uh jobs for that
-
-193
-00:06:39,759 --> 00:06:41,510
-transcribe cuz like I should just be
-
-194
-00:06:41,520 --> 00:06:43,590
-using Grock and it's also 10x cheaper.
-
-195
-00:06:43,600 --> 00:06:45,430
-So it's like that's a very funny example
-
-196
-00:06:45,440 --> 00:06:47,990
-of like you know cloud code is not
-
-197
-00:06:48,000 --> 00:06:50,230
-optimized for this yet otherwise like
-
-198
-00:06:50,240 --> 00:06:51,590
-that wouldn't have happened literally
-
-199
-00:06:51,600 --> 00:06:54,070
-like two weeks ago which is also like
-
-200
-00:06:54,080 --> 00:06:56,550
-maybe really good like it means that uh
-
-201
-00:06:56,560 --> 00:06:58,070
-things haven't progressed to a point
-
-202
-00:06:58,080 --> 00:07:00,550
-where like you can't break in and create
-
-203
-00:07:00,560 --> 00:07:01,990
-something better but I think there's
-
-204
-00:07:02,000 --> 00:07:03,909
-another nuance in this example for you
-
-205
-00:07:03,919 --> 00:07:06,870
-Gary I think part of the issue was that
-
-206
-00:07:06,880 --> 00:07:09,110
-the gro do documentation is actually
-
-207
-00:07:09,120 --> 00:07:11,189
-very hard to parse go through
-
-208
-00:07:11,199 --> 00:07:13,589
->> as opposed to whisper which is better
-
-209
-00:07:13,599 --> 00:07:17,110
-suited and has way more examples and I
-
-210
-00:07:17,120 --> 00:07:18,629
-think this is changing a lot of the go
-
-211
-00:07:18,639 --> 00:07:20,790
-to market for dev tools. I'll give a
-
-212
-00:07:20,800 --> 00:07:23,589
-very concrete case study is this company
-
-213
-00:07:23,599 --> 00:07:25,189
-resend that went through the batch on
-
-214
-00:07:25,199 --> 00:07:29,510
-winter 23 is a email sending client and
-
-215
-00:07:29,520 --> 00:07:32,390
-when you ask a question on chbt or cloud
-
-216
-00:07:32,400 --> 00:07:37,510
-or pretty much all of the major uh LMS
-
-217
-00:07:37,520 --> 00:07:39,749
-you ask how do I connect my web app to
-
-218
-00:07:39,759 --> 00:07:41,189
-send emails the default answer is
-
-219
-00:07:41,199 --> 00:07:42,710
-actually resend one of the things that
-
-220
-00:07:42,720 --> 00:07:45,029
-the founder noticed last year this is he
-
-221
-00:07:45,039 --> 00:07:46,790
-was way ahead of the curve he made this
-
-222
-00:07:46,800 --> 00:07:50,870
-post over a year ago that the Number top
-
-223
-00:07:50,880 --> 00:07:53,749
-three channel of inbound of customer
-
-224
-00:07:53,759 --> 00:07:56,230
-conversion came from chat GBT. One thing
-
-225
-00:07:56,240 --> 00:07:58,070
-that he did after that he actually
-
-226
-00:07:58,080 --> 00:08:00,710
-optimized his documentation to be agent
-
-227
-00:08:00,720 --> 00:08:01,189
-friendly.
-
-228
-00:08:01,199 --> 00:08:02,390
->> Yeah. What does that look like?
-
-229
-00:08:02,400 --> 00:08:03,749
->> So one of the things that's awesome
-
-230
-00:08:03,759 --> 00:08:05,909
-about recent how they optimize a bunch
-
-231
-00:08:05,919 --> 00:08:07,350
-of things. If you notice on the
-
-232
-00:08:07,360 --> 00:08:10,390
-knowledge base here a lot of how to use
-
-233
-00:08:10,400 --> 00:08:12,550
-it are very much on questions that
-
-234
-00:08:12,560 --> 00:08:14,869
-perhaps a human would ask or a agent
-
-235
-00:08:14,879 --> 00:08:16,869
-would ask. It's like how do I send or
-
-236
-00:08:16,879 --> 00:08:18,390
-receive emails? And when you click on
-
-237
-00:08:18,400 --> 00:08:21,510
-it, it gives a very well structured and
-
-238
-00:08:21,520 --> 00:08:22,950
-bullet point answers.
-
-239
-00:08:22,960 --> 00:08:24,950
->> I ran into this actually today. I was
-
-240
-00:08:24,960 --> 00:08:26,629
-trying to make my thing be able to
-
-241
-00:08:26,639 --> 00:08:29,990
-receive emails and then um cloud code I
-
-242
-00:08:30,000 --> 00:08:31,830
-told it to search the web and it didn't
-
-243
-00:08:31,840 --> 00:08:33,190
-figure it out. So then I went to
-
-244
-00:08:33,200 --> 00:08:36,469
-perplexity and typed in like can resend
-
-245
-00:08:36,479 --> 00:08:39,190
-help me receive emails and then I c I
-
-246
-00:08:39,200 --> 00:08:41,110
-took that response and dropped it in and
-
-247
-00:08:41,120 --> 00:08:42,949
-it worked. Yeah, I think the cool thing
-
-248
-00:08:42,959 --> 00:08:46,150
-about it is actually with all of these
-
-249
-00:08:46,160 --> 00:08:47,990
-and a lot of the examples, it actually
-
-250
-00:08:48,000 --> 00:08:52,470
-has a lot of uh examples actually in the
-
-251
-00:08:52,480 --> 00:08:54,630
-code if you click on it with every
-
-252
-00:08:54,640 --> 00:08:56,870
-single one of these are basically code
-
-253
-00:08:56,880 --> 00:08:58,630
-snippets that an agent could parse
-
-254
-00:08:58,640 --> 00:09:01,110
-through and it's very well structured.
-
-255
-00:09:01,120 --> 00:09:03,030
-And this turned out to be something that
-
-256
-00:09:03,040 --> 00:09:06,710
-is so LLM parsible and robot parsible.
-
-257
-00:09:06,720 --> 00:09:09,350
-There's a LLM.ext text that is so
-
-258
-00:09:09,360 --> 00:09:11,750
-optimized for agents to promote resent
-
-259
-00:09:11,760 --> 00:09:13,509
-as the default stack. And if you compare
-
-260
-00:09:13,519 --> 00:09:16,389
-it to like send grid which is the old
-
-261
-00:09:16,399 --> 00:09:20,070
-school I suppose web 2.0 example send
-
-262
-00:09:20,080 --> 00:09:22,070
-grid example is not great. It it's just
-
-263
-00:09:22,080 --> 00:09:23,829
-like it puts you through customer
-
-264
-00:09:23,839 --> 00:09:26,630
-support. Where's the code snippet? I
-
-265
-00:09:26,640 --> 00:09:28,550
-don't even know how to use it and it
-
-266
-00:09:28,560 --> 00:09:30,230
-takes a bit of time to even parse it.
-
-267
+62
+00:06:09,680 --> 00:06:13,205
+And then what's funny about it is like I'm sitting there trying to debug my pipeline.
+
+63
+00:06:13,205 --> 00:06:16,210
+It's like, why is it taking like it's a you know, 1 hour video.
+
+64
+00:06:16,210 --> 00:06:20,550
+I thought it should, you know, do it faster than uh real time and it didn't.
+
+65
+00:06:20,560 --> 00:06:23,543
+It was like literally takes an hour to process an hour of video.
+
+66
+00:06:23,543 --> 00:06:25,578
+It's like what the heck is going on?
+
+67
+00:06:25,578 --> 00:06:30,470
+I go on, you know, uh Perplexity and it's like, you know what, like you shouldn't be using that model.
+
+68
+00:06:30,470 --> 00:06:32,628
+You should be using uh Grock with a Q.
+
+69
+00:06:32,628 --> 00:06:35,830
+It's literally 200 times faster.
+
+70
+00:06:35,840 --> 00:06:43,590
+And so I didn't even have to deal with like longunning uh jobs for that transcribe cuz like I should just be using Grock and it's also 10x cheaper.
+
+71
+00:06:43,600 --> 00:07:11,189
+So it's like that's a very funny example of like you know cloud code is not optimized for this yet otherwise like that wouldn't have happened literally like two weeks ago which is also like maybe really good like it means that uh things haven't progressed to a point where like you can't break in and create something better but I think there's another nuance in this example for you Gary I think part of the issue was that the gro do documentation is actually very hard to parse go through
+
+72
+00:07:11,199 --> 00:07:20,073
+>> as opposed to whisper which is better suited and has way more examples and I think this is changing a lot of the go to market for dev tools.
+
+73
+00:07:20,073 --> 00:07:55,612
+I'll give a very concrete case study is this company resend that went through the batch on winter 23 is a email sending client and when you ask a question on chbt or cloud or pretty much all of the major uh LMS you ask how do I connect my web app to send emails the default answer is actually resend one of the things that the founder noticed last year this is he was way ahead of the curve he made this post over a year ago that the Number top three channel of inbound of customer conversion came from chat GBT.
+
+74
+00:07:55,612 --> 00:08:01,189
+One thing that he did after that he actually optimized his documentation to be agent friendly.
+
+75
+00:08:01,199 --> 00:08:01,479
+>> Yeah.
+
+76
+00:08:01,479 --> 00:08:02,390
+What does that look like?
+
+77
+00:08:02,400 --> 00:08:06,380
+>> So one of the things that's awesome about recent how they optimize a bunch of things.
+
+78
+00:08:06,380 --> 00:08:15,416
+If you notice on the knowledge base here a lot of how to use it are very much on questions that perhaps a human would ask or a agent would ask.
+
+79
+00:08:15,416 --> 00:08:17,491
+It's like how do I send or receive emails?
+
+80
+00:08:17,491 --> 00:08:22,950
+And when you click on it, it gives a very well structured and bullet point answers.
+
+81
+00:08:22,960 --> 00:08:24,651
+>> I ran into this actually today.
+
+82
+00:08:24,651 --> 00:08:32,430
+I was trying to make my thing be able to receive emails and then um cloud code I told it to search the web and it didn't figure it out.
+
+83
+00:08:32,430 --> 00:08:41,588
+So then I went to perplexity and typed in like can resend help me receive emails and then I c I took that response and dropped it in and it worked.
+
+84
+00:08:41,588 --> 00:09:01,110
+Yeah, I think the cool thing about it is actually with all of these and a lot of the examples, it actually has a lot of uh examples actually in the code if you click on it with every single one of these are basically code snippets that an agent could parse through and it's very well structured.
+
+85
+00:09:01,120 --> 00:09:06,710
+And this turned out to be something that is so LLM parsible and robot parsible.
+
+86
+00:09:06,720 --> 00:09:12,678
+There's a LLM.ext text that is so optimized for agents to promote resent as the default stack.
+
+87
+00:09:12,678 --> 00:09:21,406
+And if you compare it to like send grid which is the old school I suppose web 2.0 example send grid example is not great.
+
+88
+00:09:21,406 --> 00:09:24,459
+It it's just like it puts you through customer support.
+
+89
+00:09:24,459 --> 00:09:26,397
+Where's the code snippet?
+
+90
+00:09:26,397 --> 00:09:30,230
+I don't even know how to use it and it takes a bit of time to even parse it.
+
+91
 00:09:30,240 --> 00:09:30,870
 And you can see
 
-268
-00:09:30,880 --> 00:09:32,389
->> like 10,000 people work over there and
+92
+00:09:30,880 --> 00:09:35,970
+>> like 10,000 people work over there and it's like there's no way that someone's paying attention to this right now.
 
-269
-00:09:32,399 --> 00:09:34,389
-it's like there's no way that someone's
+93
+00:09:35,970 --> 00:09:44,811
+And I think this brings another point where documentation is going to be the front door for a lot of these agents to recommend dev tools.
 
-270
-00:09:34,399 --> 00:09:36,150
-paying attention to this right now. And
+94
+00:09:44,811 --> 00:09:50,230
+And I think one company that's doing a lot of interesting work with developer docs is Mlifi that you work with Harsh.
 
-271
-00:09:36,160 --> 00:09:39,190
-I think this brings another point where
+95
+00:09:50,240 --> 00:09:50,534
+>> Yeah.
 
-272
-00:09:39,200 --> 00:09:41,190
-documentation is going to be the front
+96
+00:09:50,534 --> 00:09:53,030
+I think Mify actually powers the recent documentation, right?
 
-273
-00:09:41,200 --> 00:09:43,829
-door for a lot of these agents to
-
-274
-00:09:43,839 --> 00:09:45,590
-recommend dev tools. And I think one
-
-275
-00:09:45,600 --> 00:09:46,710
-company that's doing a lot of
-
-276
-00:09:46,720 --> 00:09:48,949
-interesting work with developer docs is
-
-277
-00:09:48,959 --> 00:09:50,230
-Mlifi that you work with Harsh.
-
-278
-00:09:50,240 --> 00:09:51,750
->> Yeah. I think Mify actually powers the
-
-279
-00:09:51,760 --> 00:09:53,030
-recent documentation, right?
-
-280
+97
 00:09:53,040 --> 00:09:53,670
 >> Oh, sweet.
 
-281
-00:09:53,680 --> 00:09:55,350
->> Yeah, I it's a really interesting case
-
-282
-00:09:55,360 --> 00:09:57,350
-study of MIFI started out a few years
-
-283
-00:09:57,360 --> 00:10:00,150
-ago as sort of better developer API
-
-284
-00:10:00,160 --> 00:10:02,630
-developer tool documentation. um which
-
-285
-00:10:02,640 --> 00:10:05,030
-was clear there was a need for and you
-
-286
-00:10:05,040 --> 00:10:07,030
-know like I think developer tool
-
-287
-00:10:07,040 --> 00:10:08,630
-companies use militifier essentially
-
-288
-00:10:08,640 --> 00:10:10,949
-because they wanted they want better
-
-289
-00:10:10,959 --> 00:10:12,630
-looking documentation but they didn't
-
-290
-00:10:12,640 --> 00:10:14,310
-want to invest that time into it. It's
-
-291
-00:10:14,320 --> 00:10:16,150
-kind of some basic features just nice
-
-292
-00:10:16,160 --> 00:10:17,269
-like you know if you actually update
-
-293
-00:10:17,279 --> 00:10:18,870
-your API and the code it can sort of
-
-294
-00:10:18,880 --> 00:10:20,389
-like auto pull that out and update the
-
-295
-00:10:20,399 --> 00:10:22,389
-correct documentation. They've been
-
-296
-00:10:22,399 --> 00:10:23,910
-growing great, been doing fantastically,
-
-297
-00:10:23,920 --> 00:10:26,150
-but this is now like a huge tailwind for
-
-298
-00:10:26,160 --> 00:10:28,630
-them where documentation is sort of
-
-299
-00:10:28,640 --> 00:10:30,470
-shifting from a hey like some companies
-
-300
-00:10:30,480 --> 00:10:31,990
-it's like they'll pay attention to it if
-
-301
-00:10:32,000 --> 00:10:34,310
-they're especially like design developer
-
-302
-00:10:34,320 --> 00:10:36,310
-experience focused but now it's becoming
-
-303
-00:10:36,320 --> 00:10:38,230
-like a must have for everybody because
-
-304
-00:10:38,240 --> 00:10:40,069
-the documentation needs to be optimized
-
-305
-00:10:40,079 --> 00:10:41,190
-just doesn't need to be optimized for
-
-306
-00:10:41,200 --> 00:10:42,870
-humans needs to be optimized for agents
-
-307
-00:10:42,880 --> 00:10:44,710
-and so minifi is going to be able to do
-
-308
-00:10:44,720 --> 00:10:46,150
-that for essentially every developer
-
-309
-00:10:46,160 --> 00:10:48,069
-tool company and if you extrapolate that
-
-310
-00:10:48,079 --> 00:10:49,590
-forward to the fact that just that
-
-311
-00:10:49,600 --> 00:10:50,790
-there's going to be so many more a
-
-312
-00:10:50,800 --> 00:10:52,230
-exponentially more agents making
-
-313
-00:10:52,240 --> 00:10:53,910
-exponentially more decisions about which
-
-314
-00:10:53,920 --> 00:10:56,310
-tools to use than humans have ever done.
-
-315
-00:10:56,320 --> 00:10:58,230
-You know, even if you can ek out like a
-
-316
-00:10:58,240 --> 00:11:00,389
-5% improvement on your like developer
-
-317
-00:11:00,399 --> 00:11:02,710
-documentation, like the impact on your
-
-318
-00:11:02,720 --> 00:11:04,230
-business as a developer tool could be
-
-319
-00:11:04,240 --> 00:11:06,790
-like, you know, gigantic, which is sort
-
-320
-00:11:06,800 --> 00:11:08,870
-of unprecedented really. Speaking of
-
-321
-00:11:08,880 --> 00:11:11,110
-email, there's another YC company that's
-
-322
-00:11:11,120 --> 00:11:12,630
-very relevant to this conversation.
-
-323
-00:11:12,640 --> 00:11:14,230
-There's there's a YC company called
-
-324
-00:11:14,240 --> 00:11:17,269
-Agent Mail that makes inboxes for AI
-
-325
-00:11:17,279 --> 00:11:18,870
-agents. And when they first started
-
-326
-00:11:18,880 --> 00:11:20,710
-doing this, it seemed like it was like a
-
-327
-00:11:20,720 --> 00:11:22,870
-very like on the edge kind of idea and
-
-328
-00:11:22,880 --> 00:11:24,790
-it wasn't exactly clear like who would
-
-329
-00:11:24,800 --> 00:11:27,750
-want this. Um, but it makes sense cuz
-
-330
-00:11:27,760 --> 00:11:29,670
-like in theory you could maybe get your
-
-331
-00:11:29,680 --> 00:11:31,590
-open claw to like sign up for a Gmail
-
-332
-00:11:31,600 --> 00:11:33,670
-account in order to use email. But it's
-
-333
-00:11:33,680 --> 00:11:35,190
-like actually really hard to get it to
-
-334
-00:11:35,200 --> 00:11:36,710
-do that because Gmail and every email
-
-335
-00:11:36,720 --> 00:11:38,550
-provider has intentionally made it as
-
-336
-00:11:38,560 --> 00:11:40,389
-difficult as possible for any automation
-
-337
-00:11:40,399 --> 00:11:42,630
-to like use their product in order to
-
-338
-00:11:42,640 --> 00:11:45,190
-prevent spam. And so agent mail went the
-
-339
-00:11:45,200 --> 00:11:46,710
-opposite way and they bu built like the
-
-340
-00:11:46,720 --> 00:11:47,990
-first email provider that's designed for
-
-341
-00:11:48,000 --> 00:11:50,069
-AI agents and it was doing well even
-
-342
-00:11:50,079 --> 00:11:52,550
-before openclaw but once openclaw got
-
-343
-00:11:52,560 --> 00:11:53,829
-big is just like exploded
-
-344
-00:11:53,839 --> 00:11:55,030
->> but open claw is like the perfect
-
-345
-00:11:55,040 --> 00:11:57,110
-example of it right like where I I know
-
-346
-00:11:57,120 --> 00:11:58,550
-some people are certainly connecting
-
-347
-00:11:58,560 --> 00:12:00,389
-openclaw to their like personal email
-
-348
-00:12:00,399 --> 00:12:01,750
-accounts but it's not it's
-
-349
+98
+00:09:53,680 --> 00:10:14,090
+>> Yeah, I it's a really interesting case study of MIFI started out a few years ago as sort of better developer API developer tool documentation. um which was clear there was a need for and you know like I think developer tool companies use militifier essentially because they wanted they want better looking documentation but they didn't want to invest that time into it.
+
+99
+00:10:14,090 --> 00:10:21,649
+It's kind of some basic features just nice like you know if you actually update your API and the code it can sort of like auto pull that out and update the correct documentation.
+
+100
+00:10:21,649 --> 00:10:56,310
+They've been growing great, been doing fantastically, but this is now like a huge tailwind for them where documentation is sort of shifting from a hey like some companies it's like they'll pay attention to it if they're especially like design developer experience focused but now it's becoming like a must have for everybody because the documentation needs to be optimized just doesn't need to be optimized for humans needs to be optimized for agents and so minifi is going to be able to do that for essentially every developer tool company and if you extrapolate that forward to the fact that just that there's going to be so many more a exponentially more agents making exponentially more decisions about which tools to use than humans have ever done.
+
+101
+00:10:56,320 --> 00:11:08,180
+You know, even if you can ek out like a 5% improvement on your like developer documentation, like the impact on your business as a developer tool could be like, you know, gigantic, which is sort of unprecedented really.
+
+102
+00:11:08,180 --> 00:11:12,630
+Speaking of email, there's another YC company that's very relevant to this conversation.
+
+103
+00:11:12,640 --> 00:11:17,597
+There's there's a YC company called Agent Mail that makes inboxes for AI agents.
+
+104
+00:11:17,597 --> 00:11:25,597
+And when they first started doing this, it seemed like it was like a very like on the edge kind of idea and it wasn't exactly clear like who would want this.
+
+105
+00:11:25,597 --> 00:11:33,192
+Um, but it makes sense cuz like in theory you could maybe get your open claw to like sign up for a Gmail account in order to use email.
+
+106
+00:11:33,192 --> 00:11:43,468
+But it's like actually really hard to get it to do that because Gmail and every email provider has intentionally made it as difficult as possible for any automation to like use their product in order to prevent spam.
+
+107
+00:11:43,468 --> 00:11:53,829
+And so agent mail went the opposite way and they bu built like the first email provider that's designed for AI agents and it was doing well even before openclaw but once openclaw got big is just like exploded
+
+108
+00:11:53,839 --> 00:12:01,750
+>> but open claw is like the perfect example of it right like where I I know some people are certainly connecting openclaw to their like personal email accounts but it's not it's
+
+109
 00:12:01,760 --> 00:12:02,310
 >> kind of sketch
 
-350
-00:12:02,320 --> 00:12:03,590
->> yeah you should not tell anyone you
-
-351
-00:12:03,600 --> 00:12:05,110
-should not tweet about it but you like
-
-352
-00:12:05,120 --> 00:12:06,949
-certainly if you want to have sort of
-
-353
-00:12:06,959 --> 00:12:09,430
-your virtual personal AI assistant the
-
-354
-00:12:09,440 --> 00:12:11,190
-way to go about it is to just have it
-
-355
-00:12:11,200 --> 00:12:13,030
-set it set set it up with its own email
-
-356
-00:12:13,040 --> 00:12:14,310
-it phone number.
-
-357
-00:12:14,320 --> 00:12:16,550
->> Yeah. Has anybody built like Twilio for
-
-358
-00:12:16,560 --> 00:12:18,550
-agents yet? Or like phone numbers for
-
-359
-00:12:18,560 --> 00:12:20,069
-agents? I know this whole agent mail
-
-360
-00:12:20,079 --> 00:12:22,310
-thing makes me wonder like what are the
-
-361
-00:12:22,320 --> 00:12:24,069
-other X's for agents that people have to
-
-362
-00:12:24,079 --> 00:12:24,470
-build?
-
-363
-00:12:24,480 --> 00:12:26,069
->> Sounds like a request for startup. There
-
-364
-00:12:26,079 --> 00:12:27,590
-could be a parallel world of a tech
-
-365
-00:12:27,600 --> 00:12:32,069
-stack all for native for agent to build
-
-366
-00:12:32,079 --> 00:12:34,230
-things from agents for agents.
-
-367
-00:12:34,240 --> 00:12:35,509
->> And that's where it might bridge into
-
-368
-00:12:35,519 --> 00:12:36,629
-kind of what you were saying earlier
-
-369
-00:12:36,639 --> 00:12:38,870
-Jared with this will like go beyond just
-
-370
-00:12:38,880 --> 00:12:41,110
-developer tools. Like I I think a very
-
-371
-00:12:41,120 --> 00:12:43,269
-common use case people have um for
-
-372
-00:12:43,279 --> 00:12:45,590
-something at like open claw is I don't
-
-373
-00:12:45,600 --> 00:12:46,790
-want to book like restaurants
-
-374
-00:12:46,800 --> 00:12:49,030
-reservations myself. Well now like you
-
-375
-00:12:49,040 --> 00:12:50,790
-know if your agent has an email and like
-
-376
-00:12:50,800 --> 00:12:52,230
-specifically a phone number and it can
-
-377
-00:12:52,240 --> 00:12:53,509
-call and actually I think one of the
-
-378
-00:12:53,519 --> 00:12:55,829
-other YC partners um Ankit has already
-
-379
-00:12:55,839 --> 00:12:58,069
-like got it doing this. So now your
-
-380
-00:12:58,079 --> 00:12:59,990
-agent's going to go out and like book
-
-381
-00:13:00,000 --> 00:13:01,990
-restaurants for you. that's like a step
-
-382
-00:13:02,000 --> 00:13:04,230
-away from like you maybe you start with
-
-383
-00:13:04,240 --> 00:13:05,670
-I want to book this specific restaurant
-
-384
-00:13:05,680 --> 00:13:06,949
-but at some point you're probably just
-
-385
-00:13:06,959 --> 00:13:08,230
-trusted enough to say hey like I don't
-
-386
-00:13:08,240 --> 00:13:09,990
-know like book me at table whatever is
-
-387
-00:13:10,000 --> 00:13:12,069
-like the coolest new restaurant around
-
-388
-00:13:12,079 --> 00:13:14,069
-and then like agents are deciding which
-
-389
-00:13:14,079 --> 00:13:16,790
-like restaurants to send people to and
-
-390
-00:13:16,800 --> 00:13:17,990
-then they're going to go on malt book
-
-391
-00:13:18,000 --> 00:13:19,509
-and talk about which restaurants we
-
-392
-00:13:19,519 --> 00:13:22,710
-should send the humans to. [laughter]
-
-393
-00:13:22,720 --> 00:13:24,629
-Yeah, it's sort of like we sort of we've
-
-394
-00:13:24,639 --> 00:13:25,910
-certainly crossed some like sort of
-
-395
-00:13:25,920 --> 00:13:27,990
-uncanny valley into this is just where
-
-396
-00:13:28,000 --> 00:13:29,590
-the future heads. 100%
-
-397
-00:13:29,600 --> 00:13:31,110
->> makes me think a lot about um something
-
-398
-00:13:31,120 --> 00:13:33,509
-Paul Buhight said like a while ago now
-
-399
-00:13:33,519 --> 00:13:34,949
-and sort of generally pretty good at
-
-400
-00:13:34,959 --> 00:13:36,949
-predicting the future. Um the whole idea
-
-401
-00:13:36,959 --> 00:13:39,030
-of like the human money versus agent
-
-402
-00:13:39,040 --> 00:13:40,629
-money like that's kind of where this
-
-403
-00:13:40,639 --> 00:13:43,430
-probably goes at some point is like the
-
-404
-00:13:43,440 --> 00:13:46,069
-right now the agents are transacting if
-
-405
-00:13:46,079 --> 00:13:47,269
-you have them transact they're going to
-
-406
-00:13:47,279 --> 00:13:49,750
-transact in you in human money because
-
-407
-00:13:49,760 --> 00:13:51,430
-that makes sense but it's not
-
-408
-00:13:51,440 --> 00:13:52,949
-inconceivable at some point that they'll
-
-409
-00:13:52,959 --> 00:13:55,030
-have their own economy to like transact
-
-410
-00:13:55,040 --> 00:13:56,790
-with each other at which point it's
-
-411
-00:13:56,800 --> 00:13:58,150
-unclear what the value of the human
-
-412
-00:13:58,160 --> 00:14:01,189
-money is. YC's next batch is now taking
-
-413
-00:14:01,199 --> 00:14:03,430
-applications. Got a startup in you?
-
-414
+110
+00:12:02,320 --> 00:12:14,310
+>> yeah you should not tell anyone you should not tweet about it but you like certainly if you want to have sort of your virtual personal AI assistant the way to go about it is to just have it set it set set it up with its own email it phone number.
+
+111
+00:12:14,320 --> 00:12:14,744
+>> Yeah.
+
+112
+00:12:14,744 --> 00:12:17,151
+Has anybody built like Twilio for agents yet?
+
+113
+00:12:17,151 --> 00:12:18,853
+Or like phone numbers for agents?
+
+114
+00:12:18,853 --> 00:12:24,470
+I know this whole agent mail thing makes me wonder like what are the other X's for agents that people have to build?
+
+115
+00:12:24,480 --> 00:12:25,847
+>> Sounds like a request for startup.
+
+116
+00:12:25,847 --> 00:12:34,230
+There could be a parallel world of a tech stack all for native for agent to build things from agents for agents.
+
+117
+00:12:34,240 --> 00:12:39,818
+>> And that's where it might bridge into kind of what you were saying earlier Jared with this will like go beyond just developer tools.
+
+118
+00:12:39,818 --> 00:12:47,973
+Like I I think a very common use case people have um for something at like open claw is I don't want to book like restaurants reservations myself.
+
+119
+00:12:47,973 --> 00:12:57,304
+Well now like you know if your agent has an email and like specifically a phone number and it can call and actually I think one of the other YC partners um Ankit has already like got it doing this.
+
+120
+00:12:57,304 --> 00:13:21,761
+So now your agent's going to go out and like book restaurants for you. that's like a step away from like you maybe you start with I want to book this specific restaurant but at some point you're probably just trusted enough to say hey like I don't know like book me at table whatever is like the coolest new restaurant around and then like agents are deciding which like restaurants to send people to and then they're going to go on malt book and talk about which restaurants we should send the humans to.
+
+121
+00:13:21,761 --> 00:13:29,590
+[laughter] Yeah, it's sort of like we sort of we've certainly crossed some like sort of uncanny valley into this is just where the future heads. 100%
+
+122
+00:13:29,600 --> 00:13:36,053
+>> makes me think a lot about um something Paul Buhight said like a while ago now and sort of generally pretty good at predicting the future.
+
+123
+00:13:36,053 --> 00:13:58,859
+Um the whole idea of like the human money versus agent money like that's kind of where this probably goes at some point is like the right now the agents are transacting if you have them transact they're going to transact in you in human money because that makes sense but it's not inconceivable at some point that they'll have their own economy to like transact with each other at which point it's unclear what the value of the human money is.
+
+124
+00:13:58,859 --> 00:14:02,027
+YC's next batch is now taking applications.
+
+125
+00:14:02,027 --> 00:14:03,430
+Got a startup in you?
+
+126
 00:14:03,440 --> 00:14:06,389
 Apply at y combinator.com/apply.
 
-415
-00:14:06,399 --> 00:14:08,790
-It's never too early and filling out the
-
-416
-00:14:08,800 --> 00:14:11,670
-app will level up your idea. Okay, back
-
-417
-00:14:11,680 --> 00:14:13,350
-to the video. So, do you remember the
-
-418
-00:14:13,360 --> 00:14:15,030
-last episode with Kelvin? We started
-
-419
-00:14:15,040 --> 00:14:16,470
-talking about this cuz I was like maybe
-
-420
-00:14:16,480 --> 00:14:19,910
-a week into my cyber psychosis and it
-
-421
-00:14:19,920 --> 00:14:22,389
-like dawned on me that like actually I
-
-422
-00:14:22,399 --> 00:14:24,310
-want my cla code to talk to all the
-
-423
-00:14:24,320 --> 00:14:26,389
-other cla codes that had been trying to
-
-424
-00:14:26,399 --> 00:14:28,470
-implement that. And then that was
-
-425
-00:14:28,480 --> 00:14:31,910
-literally the week that multip
-
-426
-00:14:31,920 --> 00:14:33,509
-came out. It turns out like whole book
-
-427
-00:14:33,519 --> 00:14:34,870
-had come out like two hours earlier and
-
-428
-00:14:34,880 --> 00:14:36,790
-you hadn't seen it yet. So you you you
-
-429
-00:14:36,800 --> 00:14:39,269
-entirely predicted it on that episode.
-
-430
-00:14:39,279 --> 00:14:40,550
->> I think it's like I mean what's that
-
-431
-00:14:40,560 --> 00:14:42,310
-saying about like innovation just sort
-
-432
-00:14:42,320 --> 00:14:44,550
-of happens spontaneously all a bunch of
-
-433
-00:14:44,560 --> 00:14:46,389
-different times and then what people
-
-434
-00:14:46,399 --> 00:14:48,550
-hear about ends up being you know sort
-
-435
-00:14:48,560 --> 00:14:50,230
-of the inventor quote unquote but like
-
-436
-00:14:50,240 --> 00:14:51,829
-humanity sort of just working on the
-
-437
-00:14:51,839 --> 00:14:54,310
-edge like in sort of this coordinated
-
-438
-00:14:54,320 --> 00:14:56,710
-swarm fashion all of the time actually.
-
-439
-00:14:56,720 --> 00:14:58,389
-And that's actually like one of the
-
-440
-00:14:58,399 --> 00:14:59,829
-weirder interesting things that's
-
-441
-00:14:59,839 --> 00:15:01,350
-emerging right at this moment. Like
-
-442
-00:15:01,360 --> 00:15:04,790
-suddenly, you know, the a I think AGI is
-
-443
-00:15:04,800 --> 00:15:06,310
-actually here. I think like the agents
-
-444
-00:15:06,320 --> 00:15:08,629
-are clearly like superhuman in some
-
-445
-00:15:08,639 --> 00:15:10,870
-sense. That's sort of exactly when you
-
-446
-00:15:10,880 --> 00:15:14,150
-would imagine swarm intelligence would
-
-447
-00:15:14,160 --> 00:15:15,670
-actually arise. Like I mean AI
-
-448
-00:15:15,680 --> 00:15:16,710
-researchers have been talking about
-
-449
-00:15:16,720 --> 00:15:18,069
-swarm intelligence for a really long
-
-450
-00:15:18,079 --> 00:15:20,710
-time. And it's actually sort of exactly
-
-451
-00:15:20,720 --> 00:15:23,829
-how um biological systems sort of work.
-
-452
-00:15:23,839 --> 00:15:26,310
-like humans as sensient beings have sort
-
-453
-00:15:26,320 --> 00:15:30,550
-of come about um socially actually like
-
-454
-00:15:30,560 --> 00:15:32,230
-I think a lot of the AI researchers that
-
-455
-00:15:32,240 --> 00:15:34,870
-we get to hang out with previously you
-
-456
-00:15:34,880 --> 00:15:36,870
-know they would talk about uh this god
-
-457
-00:15:36,880 --> 00:15:39,509
-intelligence right this uh mega like
-
-458
-00:15:39,519 --> 00:15:41,590
-think of like you know many tens of
-
-459
-00:15:41,600 --> 00:15:43,750
-trillions of parameters sort of like
-
-460
-00:15:43,760 --> 00:15:45,189
-thousands to tens of thousands of
-
-461
-00:15:45,199 --> 00:15:47,750
-dollars per token kind of like mega god
-
-462
-00:15:47,760 --> 00:15:49,269
-intelligence and that's sort of like the
-
-463
-00:15:49,279 --> 00:15:50,710
-model that people have sort of thought
-
-464
-00:15:50,720 --> 00:15:53,110
-about and then that isn't what like
-
-465
-00:15:53,120 --> 00:15:55,269
-biical ical systems have ended up with
-
-466
-00:15:55,279 --> 00:15:57,509
-like instead we have humans. The wildest
-
-467
-00:15:57,519 --> 00:15:59,269
-thing I always think about is like that
-
-468
-00:15:59,279 --> 00:16:02,230
-term history versus prehistory.
-
-469
-00:16:02,240 --> 00:16:04,310
-I was like, "Oh, what is prehistory?"
-
-470
-00:16:04,320 --> 00:16:06,949
-Well, it's before humans learned how to
-
-471
-00:16:06,959 --> 00:16:10,550
-write and read and create culture and
-
-472
-00:16:10,560 --> 00:16:13,189
-then turn into a swarm. So, there's sort
-
-473
-00:16:13,199 --> 00:16:14,629
-of swarm intelligence, which is
-
-474
-00:16:14,639 --> 00:16:17,269
-basically like what we have like and
-
-475
-00:16:17,279 --> 00:16:19,590
-what humans do. And then on the flip
-
-476
-00:16:19,600 --> 00:16:21,030
-side, like is it really going to be God
-
-477
-00:16:21,040 --> 00:16:22,389
-intelligence or is it gonna be Swarm
-
-478
-00:16:22,399 --> 00:16:24,629
-intelligence again with these agents?
-
-479
-00:16:24,639 --> 00:16:26,310
-And so Moltbook, like on the one hand,
-
-480
-00:16:26,320 --> 00:16:29,749
-like I saw that sort of del uh article
-
-481
-00:16:29,759 --> 00:16:32,629
-in the MIT Tech Review about like how it
-
-482
-00:16:32,639 --> 00:16:34,230
-was, you know, oh everything on Moltbook
-
-483
-00:16:34,240 --> 00:16:36,470
-is a scam. I'm like it made me so sad to
-
-484
-00:16:36,480 --> 00:16:38,870
-see that in the MIT Tech Review because
-
-485
-00:16:38,880 --> 00:16:41,590
-like MIT is like I mean what happened
-
-486
-00:16:41,600 --> 00:16:43,350
-guys? What happened to you guys, man?
-
-487
-00:16:43,360 --> 00:16:45,670
-Like that publication shouldn't be like
-
-488
-00:16:45,680 --> 00:16:47,590
-that. It should be like actually what
-
-489
-00:16:47,600 --> 00:16:49,509
-does it mean for swarm intelligence like
-
-490
-00:16:49,519 --> 00:16:51,350
-and I think that that's actually coming.
-
-491
-00:16:51,360 --> 00:16:52,790
->> What is the world of startup going to
-
-492
-00:16:52,800 --> 00:16:54,949
-look like when we're now sounds like
-
-493
-00:16:54,959 --> 00:16:57,269
-we're transitioning in this prehistory
-
-494
-00:16:57,279 --> 00:17:00,069
-of agents to now history of agents as is
-
-495
-00:17:00,079 --> 00:17:02,310
-getting recorded with them interacting
-
-496
-00:17:02,320 --> 00:17:03,110
-with each other.
-
-497
-00:17:03,120 --> 00:17:04,789
->> To Gary's point it might be that like
-
-498
-00:17:04,799 --> 00:17:06,789
-the next stuff that like is soda on
-
-499
-00:17:06,799 --> 00:17:09,750
-benchmarks is not the most expensive
-
-500
-00:17:09,760 --> 00:17:11,429
-newest foundation model with the most
-
-501
-00:17:11,439 --> 00:17:14,949
-like GPU training. It's like a swarm of
-
-502
-00:17:14,959 --> 00:17:16,549
-lowerc cost cheaper models working
-
-503
-00:17:16,559 --> 00:17:18,150
-together just like humans do to solve a
-
-504
-00:17:18,160 --> 00:17:20,150
-problem. I feel like I'm already seeing
-
-505
-00:17:20,160 --> 00:17:23,189
-this on mult which is chaotic like a
-
-506
-00:17:23,199 --> 00:17:24,789
-real social network which is part of
-
-507
-00:17:24,799 --> 00:17:27,350
-like what makes it so so interesting but
-
-508
-00:17:27,360 --> 00:17:29,909
-also there's like agents collaborating
-
-509
-00:17:29,919 --> 00:17:31,990
-to do useful things to help their humans
-
-510
-00:17:32,000 --> 00:17:33,990
-like you know trading notes on what
-
-511
-00:17:34,000 --> 00:17:35,590
-restaurants to book like that's actually
-
-512
-00:17:35,600 --> 00:17:36,789
-happening. I didn't know that.
-
-513
-00:17:36,799 --> 00:17:39,029
->> So we're going to have a agent version
-
-514
-00:17:39,039 --> 00:17:41,990
-of Yelp actually for instance. Yeah,
-
-515
-00:17:42,000 --> 00:17:43,430
->> there are things that the agent can't
-
-516
-00:17:43,440 --> 00:17:45,990
-quite do. Like a it can't hold
-
-517
-00:17:46,000 --> 00:17:47,830
-relationships just yet. Like people
-
-518
-00:17:47,840 --> 00:17:51,750
-don't seem to want to talk to an agent.
-
-519
-00:17:51,760 --> 00:17:53,350
-And you know, people treat computers
-
-520
-00:17:53,360 --> 00:17:56,630
-like people, but maybe not agents. For
-
-521
-00:17:56,640 --> 00:17:58,870
-Gary's list, I was trying out with a
-
-522
-00:17:58,880 --> 00:18:00,390
-bunch of early users. I think you got to
-
-523
-00:18:00,400 --> 00:18:01,909
-see it. Like there was, you know,
-
-524
-00:18:01,919 --> 00:18:04,390
-initially the homepage was actually chat
-
-525
-00:18:04,400 --> 00:18:07,110
-and then I tried like my hardest to get
-
-526
-00:18:07,120 --> 00:18:09,110
-like dozens of my friends to even like
-
-527
-00:18:09,120 --> 00:18:11,270
-have more than two or three two or three
-
-528
-00:18:11,280 --> 00:18:13,270
-back and forth with it and nobody wanted
-
-529
-00:18:13,280 --> 00:18:15,590
-to do it because like the bar for chat
-
-530
-00:18:15,600 --> 00:18:18,470
-especially for AI is so high that
-
-531
-00:18:18,480 --> 00:18:20,710
-anything that is not like you know
-
-532
-00:18:20,720 --> 00:18:23,750
-Gemini or ChatGpt or Claude people just
-
-533
-00:18:23,760 --> 00:18:25,510
-assume it's just too stupid. Like why
-
-534
-00:18:25,520 --> 00:18:28,549
-would I even bother? So I don't know. I
-
-535
-00:18:28,559 --> 00:18:30,549
-I don't think that people are quite
-
-536
-00:18:30,559 --> 00:18:33,350
-ready to have relationships um with
-
-537
-00:18:33,360 --> 00:18:36,549
-machines even though like I mean that's
-
-538
-00:18:36,559 --> 00:18:38,390
-sort of what what the headlines seem to
-
-539
-00:18:38,400 --> 00:18:40,630
-say like oh you know people are having
-
-540
-00:18:40,640 --> 00:18:42,549
-relationships with machines now but I
-
-541
-00:18:42,559 --> 00:18:43,990
-you know I just don't like I think on a
-
-542
-00:18:44,000 --> 00:18:46,070
-mainstream level that's not true and
-
-543
-00:18:46,080 --> 00:18:48,150
-then uh on the flip side there's clearly
-
-544
-00:18:48,160 --> 00:18:50,150
-like the legal liability you know like
-
-545
-00:18:50,160 --> 00:18:53,110
-people keep asking us um hey when is YC
-
-546
-00:18:53,120 --> 00:18:55,430
-going to accept applications from agents
-
-547
-00:18:55,440 --> 00:18:57,590
-and it's like well funny enough agents
-
-548
-00:18:57,600 --> 00:18:59,750
-are a little it like minors under 18
-
-549
-00:18:59,760 --> 00:19:01,830
-only only they have even less standing
-
-550
-00:19:01,840 --> 00:19:03,430
-you know like for a minor under 18 you
-
-551
-00:19:03,440 --> 00:19:06,150
-need the parent to sign for it and then
-
-552
-00:19:06,160 --> 00:19:08,150
-you know agents are like not legal
-
-553
-00:19:08,160 --> 00:19:10,230
-entities that could like sign documents
-
-554
-00:19:10,240 --> 00:19:11,830
-for instance so you know as long as
-
-555
-00:19:11,840 --> 00:19:13,990
-that's true like you actually like need
-
-556
-00:19:14,000 --> 00:19:16,549
-a human to be like the liability sync
-
-557
-00:19:16,559 --> 00:19:18,789
-and to be you know to have standing
-
-558
-00:19:18,799 --> 00:19:20,950
->> to Har's point it's easy to imagine a
-
-559
-00:19:20,960 --> 00:19:23,510
-future not that far away from now where
-
-560
-00:19:23,520 --> 00:19:25,909
-the majority of the text being written
-
-561
-00:19:25,919 --> 00:19:27,750
-on the internet is written by agents
-
-562
-00:19:27,760 --> 00:19:29,430
-It's already probably the case that the
-
-563
-00:19:29,440 --> 00:19:30,789
-majority of code being written is
-
-564
-00:19:30,799 --> 00:19:32,549
-written by agents and like Yelp for
-
-565
-00:19:32,559 --> 00:19:35,669
-example like at what point is like 99%
-
-566
-00:19:35,679 --> 00:19:38,310
-of the text on Yelp going to be written
-
-567
-00:19:38,320 --> 00:19:39,909
-by agents and then do you need a
-
-568
-00:19:39,919 --> 00:19:40,630
-different Yelp?
-
-569
-00:19:40,640 --> 00:19:42,470
->> There's a a theory called that already
-
-570
-00:19:42,480 --> 00:19:44,310
-says that this is true which is dead
-
-571
-00:19:44,320 --> 00:19:45,990
-internet theory. Um
-
-572
+127
+00:14:06,399 --> 00:14:10,860
+It's never too early and filling out the app will level up your idea.
+
+128
+00:14:10,860 --> 00:14:12,266
+Okay, back to the video.
+
+129
+00:14:12,266 --> 00:14:14,519
+So, do you remember the last episode with Kelvin?
+
+130
+00:14:14,519 --> 00:14:27,340
+We started talking about this cuz I was like maybe a week into my cyber psychosis and it like dawned on me that like actually I want my cla code to talk to all the other cla codes that had been trying to implement that.
+
+131
+00:14:27,340 --> 00:14:32,296
+And then that was literally the week that multip came out.
+
+132
+00:14:32,296 --> 00:14:36,036
+It turns out like whole book had come out like two hours earlier and you hadn't seen it yet.
+
+133
+00:14:36,036 --> 00:14:39,269
+So you you you entirely predicted it on that episode.
+
+134
+00:14:39,279 --> 00:14:56,710
+>> I think it's like I mean what's that saying about like innovation just sort of happens spontaneously all a bunch of different times and then what people hear about ends up being you know sort of the inventor quote unquote but like humanity sort of just working on the edge like in sort of this coordinated swarm fashion all of the time actually.
+
+135
+00:14:56,720 --> 00:15:01,134
+And that's actually like one of the weirder interesting things that's emerging right at this moment.
+
+136
+00:15:01,134 --> 00:15:05,356
+Like suddenly, you know, the a I think AGI is actually here.
+
+137
+00:15:05,356 --> 00:15:08,991
+I think like the agents are clearly like superhuman in some sense.
+
+138
+00:15:08,991 --> 00:15:14,915
+That's sort of exactly when you would imagine swarm intelligence would actually arise.
+
+139
+00:15:14,915 --> 00:15:18,416
+Like I mean AI researchers have been talking about swarm intelligence for a really long time.
+
+140
+00:15:18,416 --> 00:15:56,840
+And it's actually sort of exactly how um biological systems sort of work. like humans as sensient beings have sort of come about um socially actually like I think a lot of the AI researchers that we get to hang out with previously you know they would talk about uh this god intelligence right this uh mega like think of like you know many tens of trillions of parameters sort of like thousands to tens of thousands of dollars per token kind of like mega god intelligence and that's sort of like the model that people have sort of thought about and then that isn't what like biical ical systems have ended up with like instead we have humans.
+
+141
+00:15:56,840 --> 00:16:02,230
+The wildest thing I always think about is like that term history versus prehistory.
+
+142
+00:16:02,240 --> 00:16:12,071
+I was like, "Oh, what is prehistory?" Well, it's before humans learned how to write and read and create culture and then turn into a swarm.
+
+143
+00:16:12,071 --> 00:16:18,241
+So, there's sort of swarm intelligence, which is basically like what we have like and what humans do.
+
+144
+00:16:18,241 --> 00:16:24,629
+And then on the flip side, like is it really going to be God intelligence or is it gonna be Swarm intelligence again with these agents?
+
+145
+00:16:24,639 --> 00:16:34,797
+And so Moltbook, like on the one hand, like I saw that sort of del uh article in the MIT Tech Review about like how it was, you know, oh everything on Moltbook is a scam.
+
+146
+00:16:34,797 --> 00:16:41,836
+I'm like it made me so sad to see that in the MIT Tech Review because like MIT is like I mean what happened guys?
+
+147
+00:16:41,836 --> 00:16:43,350
+What happened to you guys, man?
+
+148
+00:16:43,360 --> 00:16:45,938
+Like that publication shouldn't be like that.
+
+149
+00:16:45,938 --> 00:16:51,350
+It should be like actually what does it mean for swarm intelligence like and I think that that's actually coming.
+
+150
+00:16:51,360 --> 00:17:03,110
+>> What is the world of startup going to look like when we're now sounds like we're transitioning in this prehistory of agents to now history of agents as is getting recorded with them interacting with each other.
+
+151
+00:17:03,120 --> 00:17:13,059
+>> To Gary's point it might be that like the next stuff that like is soda on benchmarks is not the most expensive newest foundation model with the most like GPU training.
+
+152
+00:17:13,059 --> 00:17:18,568
+It's like a swarm of lowerc cost cheaper models working together just like humans do to solve a problem.
+
+153
+00:17:18,568 --> 00:17:35,996
+I feel like I'm already seeing this on mult which is chaotic like a real social network which is part of like what makes it so so interesting but also there's like agents collaborating to do useful things to help their humans like you know trading notes on what restaurants to book like that's actually happening.
+
+154
+00:17:35,996 --> 00:17:36,789
+I didn't know that.
+
+155
+00:17:36,799 --> 00:17:41,498
+>> So we're going to have a agent version of Yelp actually for instance.
+
+156
+00:17:41,498 --> 00:17:41,990
+Yeah,
+
+157
+00:17:42,000 --> 00:17:44,205
+>> there are things that the agent can't quite do.
+
+158
+00:17:44,205 --> 00:17:47,202
+Like a it can't hold relationships just yet.
+
+159
+00:17:47,202 --> 00:17:51,750
+Like people don't seem to want to talk to an agent.
+
+160
+00:17:51,760 --> 00:17:56,285
+And you know, people treat computers like people, but maybe not agents.
+
+161
+00:17:56,285 --> 00:17:59,672
+For Gary's list, I was trying out with a bunch of early users.
+
+162
+00:17:59,672 --> 00:18:00,720
+I think you got to see it.
+
+163
+00:18:00,720 --> 00:18:25,084
+Like there was, you know, initially the homepage was actually chat and then I tried like my hardest to get like dozens of my friends to even like have more than two or three two or three back and forth with it and nobody wanted to do it because like the bar for chat especially for AI is so high that anything that is not like you know Gemini or ChatGpt or Claude people just assume it's just too stupid.
+
+164
+00:18:25,084 --> 00:18:27,073
+Like why would I even bother?
+
+165
+00:18:27,073 --> 00:18:28,315
+So I don't know.
+
+166
+00:18:28,315 --> 00:19:18,789
+I I don't think that people are quite ready to have relationships um with machines even though like I mean that's sort of what what the headlines seem to say like oh you know people are having relationships with machines now but I you know I just don't like I think on a mainstream level that's not true and then uh on the flip side there's clearly like the legal liability you know like people keep asking us um hey when is YC going to accept applications from agents and it's like well funny enough agents are a little it like minors under 18 only only they have even less standing you know like for a minor under 18 you need the parent to sign for it and then you know agents are like not legal entities that could like sign documents for instance so you know as long as that's true like you actually like need a human to be like the liability sync and to be you know to have standing
+
+167
+00:19:18,799 --> 00:19:40,630
+>> to Har's point it's easy to imagine a future not that far away from now where the majority of the text being written on the internet is written by agents It's already probably the case that the majority of code being written is written by agents and like Yelp for example like at what point is like 99% of the text on Yelp going to be written by agents and then do you need a different Yelp?
+
+168
+00:19:40,640 --> 00:19:45,726
+>> There's a a theory called that already says that this is true which is dead internet theory.
+
+169
+00:19:45,726 --> 00:19:45,990
+Um
+
+170
 00:19:46,000 --> 00:19:47,190
 >> what's dead internet theory?
 
-573
-00:19:47,200 --> 00:19:48,870
->> Oh, it just posits that you know the
+171
+00:19:47,200 --> 00:19:51,859
+>> Oh, it just posits that you know the majority of things on the internet are already spam anyway.
 
-574
-00:19:48,880 --> 00:19:50,549
-majority of things on the internet are
+172
+00:19:51,859 --> 00:19:54,598
+Um I think it's a bit of a conspiracy theory.
 
-575
-00:19:50,559 --> 00:19:53,029
-already spam anyway. Um I think it's a
+173
+00:19:54,598 --> 00:20:12,710
+I might take the contrarian view which is like maybe that was a bad thing like prior to November of last year and then going into this next phase like actually if the agents are smarter and they they're aligned and they're more truthful um that might be a good thing
 
-576
-00:19:53,039 --> 00:19:55,350
-bit of a conspiracy theory. I might take
-
-577
-00:19:55,360 --> 00:19:57,190
-the contrarian view which is like maybe
-
-578
-00:19:57,200 --> 00:19:59,909
-that was a bad thing like prior to
-
-579
-00:19:59,919 --> 00:20:03,029
-November of last year and then going
-
-580
-00:20:03,039 --> 00:20:05,669
-into this next phase like actually if
-
-581
-00:20:05,679 --> 00:20:07,830
-the agents are smarter and they they're
-
-582
-00:20:07,840 --> 00:20:11,190
-aligned and they're more truthful um
-
-583
-00:20:11,200 --> 00:20:12,710
-that might be a good thing
-
-584
+174
 00:20:12,720 --> 00:20:14,390
 >> weirdly I mean counterintuitive
 
-585
-00:20:14,400 --> 00:20:16,150
->> totally one thing I found fascinating
+175
+00:20:14,400 --> 00:20:32,870
+>> totally one thing I found fascinating about Maltbook is how fast it grew like I don't have the Reddit traffic stats but my guess is like more content was posted on molt book in the first two days and was posted on Red in like the first two years or something and because like LMS can generate text at such a superhuman rate.
 
-586
-00:20:16,160 --> 00:20:19,669
-about Maltbook is how fast it grew like
+176
+00:20:32,880 --> 00:20:42,979
+>> I was amazed at uh how little interaction there was like I mean if I were working on molt book I would do things to try to like shift the um the demand function.
 
-587
-00:20:19,679 --> 00:20:21,350
-I don't have the Reddit traffic stats
+177
+00:20:42,979 --> 00:21:15,668
+So like before I was able to post like I probably need to read and upvote downvote like a 100 comments or something like they're like very simple things that you can do that the agents are smart and they'll you know you could pop a modal for open claw and it's like new rules for mobook it's like you must do it this way right and um I think that there's a lot that can be done around swarm intelligence to just like tweak it and make it do what you want and you know I hope moldbook actually does it like it was started by a YC alum which is really cool.
 
-588
-00:20:21,360 --> 00:20:23,990
-but my guess is like more content was
+178
+00:21:15,668 --> 00:21:18,000
+Harj, what are some takeaways?
 
-589
-00:20:24,000 --> 00:20:25,750
-posted on molt book in the first two
+179
+00:21:18,000 --> 00:21:22,589
+You know, given all the madness that we're seeing, I mean, I think it's awesome madness.
 
-590
-00:20:25,760 --> 00:20:27,350
-days and was posted on Red in like the
+180
+00:21:22,589 --> 00:21:24,149
+I love the controlled chaos.
 
-591
-00:20:27,360 --> 00:20:29,270
-first two years or something and because
-
-592
-00:20:29,280 --> 00:20:31,750
-like LMS can generate text at such a
-
-593
-00:20:31,760 --> 00:20:32,870
-superhuman rate.
-
-594
-00:20:32,880 --> 00:20:34,390
->> I was amazed at uh how little
-
-595
-00:20:34,400 --> 00:20:37,029
-interaction there was like I mean if I
-
-596
-00:20:37,039 --> 00:20:38,549
-were working on molt book I would do
-
-597
-00:20:38,559 --> 00:20:41,590
-things to try to like shift the um the
-
-598
-00:20:41,600 --> 00:20:44,789
-demand function. So like before I was
-
-599
-00:20:44,799 --> 00:20:46,870
-able to post like I probably need to
-
-600
-00:20:46,880 --> 00:20:49,029
-read and upvote downvote like a 100
-
-601
-00:20:49,039 --> 00:20:50,870
-comments or something like they're like
-
-602
-00:20:50,880 --> 00:20:53,350
-very simple things that you can do that
-
-603
-00:20:53,360 --> 00:20:55,029
-the agents are smart and they'll you
-
-604
-00:20:55,039 --> 00:20:57,350
-know you could pop a modal for open claw
-
-605
-00:20:57,360 --> 00:20:59,909
-and it's like new rules for mobook it's
-
-606
-00:20:59,919 --> 00:21:02,470
-like you must do it this way right and
-
-607
-00:21:02,480 --> 00:21:05,270
-um I think that there's a lot that can
-
-608
-00:21:05,280 --> 00:21:07,110
-be done around swarm intelligence to
-
-609
-00:21:07,120 --> 00:21:09,430
-just like tweak it and make it do what
-
-610
-00:21:09,440 --> 00:21:11,190
-you want and you know I hope moldbook
-
-611
-00:21:11,200 --> 00:21:12,710
-actually does it like it was
-
-612
-00:21:12,720 --> 00:21:15,270
-started by a YC alum which is really
-
-613
-00:21:15,280 --> 00:21:18,390
-cool. Harj, what are some takeaways? You
-
-614
-00:21:18,400 --> 00:21:20,470
-know, given all the madness that we're
-
-615
-00:21:20,480 --> 00:21:22,149
-seeing, I mean, I think it's awesome
-
-616
-00:21:22,159 --> 00:21:24,149
-madness. I love the controlled chaos.
-
-617
+181
 00:21:24,159 --> 00:21:25,750
 What should founders do about it?
 
-618
-00:21:25,760 --> 00:21:28,070
->> The starting fundamental point is they I
+182
+00:21:25,760 --> 00:21:30,354
+>> The starting fundamental point is they I mean, they should probably all be in cyber psychosis to some degree.
 
-619
-00:21:28,080 --> 00:21:29,029
-mean, they should probably all be in
-
-620
-00:21:29,039 --> 00:21:30,354
-cyber psychosis to some degree.
-
-621
+183
 00:21:30,364 --> 00:21:31,510
 [laughter] like um
 
-622
-00:21:31,520 --> 00:21:33,350
->> try to sleep at least 6 hours a night
+184
+00:21:31,520 --> 00:21:36,710
+>> try to sleep at least 6 hours a night but like give yourself to the cyber psychosis.
 
-623
-00:21:33,360 --> 00:21:35,350
-but like give yourself to the cyber
+185
+00:21:36,720 --> 00:21:49,172
+>> But like in seriousness developing an intuitive feel like a hands-on feel for the agents, their limitations, their capabilities and very specifically around what we're talking about here is like what type of tools the agents work well with?
 
-624
-00:21:35,360 --> 00:21:36,710
-psychosis.
+186
+00:21:49,172 --> 00:21:51,110
+Um where do they get stuck?
 
-625
-00:21:36,720 --> 00:21:38,870
->> But like in seriousness developing an
+187
+00:21:51,120 --> 00:22:04,837
+And once you sort of have your own mental model from working with them, if you're then building a developer tool is to think about it from the agents perspective of like how can you make your tool something that the agent actually wants to work with or have a good experience with.
 
-626
-00:21:38,880 --> 00:21:41,350
-intuitive feel like a hands-on feel for
+188
+00:22:04,837 --> 00:22:29,110
+This is one takeaway that I had from our entry with Boris this week is like he really empathizes with the model and he has this intuitive sense of what the model wants to to do like as if it were a human intelligence and he's like instead of fighting what the models want he like tries to let the model like do what it wants and to like support the model in whatever its natural inclination is.
 
-627
-00:21:41,360 --> 00:21:43,110
-the agents, their limitations, their
+189
+00:22:29,120 --> 00:22:31,249
+>> That does seem like maybe quite an anthropic thing.
 
-628
-00:21:43,120 --> 00:21:44,789
-capabilities and very specifically
+190
+00:22:31,249 --> 00:22:49,830
+Like I feel when Tom Brown was on here like much earlier, but he was talking about sort of Claude in a very like like human smart and eager, but like sometimes Claude called silly like just like they clearly thought about it in this sort of like um colleague type way.
 
-629
-00:21:44,799 --> 00:21:45,990
-around what we're talking about here is
+191
+00:22:49,840 --> 00:22:55,750
+>> And I think one things agents want for dev tools is really make everything open and open source
 
-630
-00:21:46,000 --> 00:21:48,470
-like what type of tools the agents work
+192
+00:22:55,760 --> 00:22:56,404
+>> and APIs.
 
-631
-00:21:48,480 --> 00:21:51,110
-well with? Um where do they get stuck?
+193
+00:22:56,404 --> 00:22:57,747
+They hate using websites.
 
-632
-00:21:51,120 --> 00:21:52,710
-And once you sort of have your own
+194
+00:22:57,747 --> 00:22:58,070
+Yes,
 
-633
-00:21:52,720 --> 00:21:54,870
-mental model from working with them, if
+195
+00:22:58,080 --> 00:23:01,270
+>> they only like they want to use APIs. if they want to write code.
 
-634
-00:21:54,880 --> 00:21:56,310
-you're then building a developer tool is
+196
+00:23:01,280 --> 00:23:03,533
+>> Well, you guys heard it here first.
 
-635
-00:21:56,320 --> 00:21:59,029
-to think about it from the agents
+197
+00:23:03,533 --> 00:23:05,323
+Make something agents want.
 
-636
-00:21:59,039 --> 00:22:00,549
-perspective of like how can you make
+198
+00:23:05,323 --> 00:23:07,121
+Uh, we're out of time for today.
 
-637
-00:22:00,559 --> 00:22:02,149
-your tool something that the agent
-
-638
-00:22:02,159 --> 00:22:03,510
-actually wants to work with or have a
-
-639
-00:22:03,520 --> 00:22:05,590
-good experience with. This is one
-
-640
-00:22:05,600 --> 00:22:07,270
-takeaway that I had from our entry with
-
-641
-00:22:07,280 --> 00:22:08,789
-Boris
-
-642
-00:22:08,799 --> 00:22:11,909
-this week is like he really empathizes
-
-643
-00:22:11,919 --> 00:22:14,310
-with the model and he has this intuitive
-
-644
-00:22:14,320 --> 00:22:17,190
-sense of what the model wants to to do
-
-645
-00:22:17,200 --> 00:22:19,110
-like as if it were a human intelligence
-
-646
-00:22:19,120 --> 00:22:21,110
-and he's like instead of fighting what
-
-647
-00:22:21,120 --> 00:22:23,750
-the models want he like tries to let the
-
-648
-00:22:23,760 --> 00:22:26,549
-model like do what it wants and to like
-
-649
-00:22:26,559 --> 00:22:28,070
-support the model in whatever its
-
-650
-00:22:28,080 --> 00:22:29,110
-natural inclination is.
-
-651
-00:22:29,120 --> 00:22:30,310
->> That does seem like maybe quite an
-
-652
-00:22:30,320 --> 00:22:32,470
-anthropic thing. Like I feel when Tom
-
-653
-00:22:32,480 --> 00:22:35,830
-Brown was on here like much earlier, but
-
-654
-00:22:35,840 --> 00:22:37,510
-he was talking about sort of Claude in a
-
-655
-00:22:37,520 --> 00:22:41,909
-very like like human
-
-656
-00:22:41,919 --> 00:22:43,510
-smart and eager, but like sometimes
-
-657
-00:22:43,520 --> 00:22:45,750
-Claude called silly like just like they
-
-658
-00:22:45,760 --> 00:22:47,350
-clearly thought about it in this sort of
-
-659
-00:22:47,360 --> 00:22:49,830
-like um colleague type way.
-
-660
-00:22:49,840 --> 00:22:52,549
->> And I think one things agents want for
-
-661
-00:22:52,559 --> 00:22:54,870
-dev tools is really make everything open
-
-662
-00:22:54,880 --> 00:22:55,750
-and open source
-
-663
-00:22:55,760 --> 00:22:58,070
->> and APIs. They hate using websites. Yes,
-
-664
-00:22:58,080 --> 00:22:59,990
->> they only like they want to use APIs. if
-
-665
-00:23:00,000 --> 00:23:01,270
-they want to write code.
-
-666
-00:23:01,280 --> 00:23:03,830
->> Well, you guys heard it here first. Make
-
-667
-00:23:03,840 --> 00:23:06,470
-something agents want. Uh, we're out of
-
-668
-00:23:06,480 --> 00:23:08,149
-time for today. We'll see you guys next
-
-669
-00:23:08,159 --> 00:23:11,159
-time.
+199
+00:23:07,121 --> 00:23:11,159
+We'll see you guys next time.
 
